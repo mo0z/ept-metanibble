@@ -11,8 +11,8 @@
 NAME	= metanibble
 CC	= gcc
 GFLAGS	= -Wall
-INC	= -Iincludes -I/usr/X11R6/include -Iimlib-1.9.15/Imlib
-LIBS	= -L/usr/X11R6/lib -Limlib-1.9.15/Imlib/.libs -lX11 -lpng -lImlib -lm
+INC	= -Iincludes -I/usr/X11R6/include -Ivendor/imlib-1.9.15/Imlib
+LIBS	= -L/usr/X11R6/lib -Lvendor/imlib-1.9.15/Imlib/.libs -lX11 -lpng -lImlib -lm
 CFLAGS	= $(GFLAGS) $(INC)
 SRC	= 	main.c			\
 		list_init.c		\

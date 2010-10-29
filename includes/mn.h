@@ -113,7 +113,7 @@ char		*chomp(char *s);
 char		**explode(char *token, char *str);
 void		tbl_print(char **tbl);
 void		tbl_free(char **tbl);
-char		*strndup(char *str, int n);
+/*char		*strndup(char *str, int n);*/
 char		*cl_read(t_list *list);
 void		cl_read_analyse(t_list *list, char *m);
 t_list		*cl_list_init(t_list *list2);

@@ -11,8 +11,8 @@
 NAME	= metanibble
 CC	= gcc
 GFLAGS	= -Wall
-INC	= -Iincludes -I/usr/X11R6/include
-LIBS	= -L/usr/X11R6/lib -lX11 -lpng -lImlib -lm
+INC	= -Iincludes -I/usr/X11R6/include -Iimlib-1.9.15/Imlib
+LIBS	= -L/usr/X11R6/lib -Limlib-1.9.15/Imlib/.libs -lX11 -lpng -lImlib -lm
 CFLAGS	= $(GFLAGS) $(INC)
 SRC	= 	main.c			\
 		list_init.c		\
@@ -66,7 +66,6 @@ SRC	= 	main.c			\
 		explode.c		\
 		tbl_print.c		\
 		tbl_free.c		\
-		strndup.c		\
 		cl_read.c		\
 		cl_read_analyse.c	\
 		cl_list_init.c		\
@@ -128,6 +127,3 @@ fclean	: clean
 	rm -f $(NAME) *~
 
 re	: fclean $(NAME)
-
-install	:
-	echo "toto"

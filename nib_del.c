@@ -1,0 +1,44 @@
+/*
+** nib_del.c for  in /u/ept2/jouan_t/code/c/projetx
+** 
+** Made by thibault jouan
+** Login   <jouan_t@epita.fr>
+** 
+** Started on  Mon May 26 23:42:36 2003 thibault jouan
+** Last update Tue May 27 04:03:32 2003 StarK
+*/
+
+#include "mn.h"
+
+void		nib_del(t_list *list, t_nib *nib, int del)
+{
+  t_nib		*tmp;
+  t_nib		*old;
+
+  if (nib == DW)
+    {
+      if (DW->next)
+	DW = DW->next;
+      else
+	DW = 0;
+      printf("SV> Nibble [#%d] supprimé.\n", nib->id);
+      if (del)
+	free(nib);
+      return;
+    }
+  for (tmp = DW; tmp; tmp = tmp->next)
+    {
+      if (tmp == nib)
+	{
+	  if (tmp->next)
+	    old->next = tmp->next;
+	  else
+	    old->next = 0;
+	  printf("SV> Nibble [#%d] supprimé.\n", tmp->id);
+	  if (del)
+	    free(tmp);
+	  return;
+	}
+      old = tmp;
+    }
+}

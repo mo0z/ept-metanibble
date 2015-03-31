@@ -9,10 +9,10 @@
 ##
 
 NAME	= metanibble
-CC	= gcc
 GFLAGS	= -Wall
-INC	= -Iincludes -I/usr/X11R6/include -Ivendor/imlib-1.9.15/Imlib
-LIBS	= -L/usr/X11R6/lib -Lvendor/imlib-1.9.15/Imlib/.libs -lX11 -lpng -lImlib -lm
+INC	= -Iincludes -I/usr/local/include -I/usr/X11R6/include \
+		-Ivendor/imlib-1.9.15/Imlib
+LIBS	= -L/usr/local/lib -L/usr/X11R6/lib -Lvendor/imlib-1.9.15/Imlib/.libs -lX11 -lpng -lImlib -lm
 CFLAGS	= $(GFLAGS) $(INC)
 SRC	= 	main.c			\
 		list_init.c		\
@@ -124,6 +124,6 @@ clean	:
 	$(RM) $(OBJ)
 
 fclean	: clean
-	rm -f $(NAME) *~
+	rm -f $(NAME)
 
 re	: fclean $(NAME)

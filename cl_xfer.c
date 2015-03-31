@@ -1,13 +1,3 @@
-/*
-** cl_xfer.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Thu May 22 18:00:39 2003 thibault jouan
-** Last update Mon May 26 02:32:07 2003 StarK
-*/
-
 #include "mn.h"
 
 void			cl_xfer(t_list *list)

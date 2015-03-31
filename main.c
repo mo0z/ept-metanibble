@@ -1,13 +1,3 @@
-/*
-** main.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Mon May 12 00:10:18 2003 thibault jouan
-** Last update Wed Jun 25 17:58:59 2003 StarK
-*/
-
 #include "mn.h"
 
 int		main(int ac, char **av)

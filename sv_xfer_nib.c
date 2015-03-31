@@ -1,13 +1,3 @@
-/*
-** cv_xfer_nib.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 27 04:15:22 2003 StarK
-** Last update Wed May 28 06:46:07 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		sv_xfer_nib(t_list *list)

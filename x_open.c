@@ -1,13 +1,3 @@
-/*
-** x_open.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Tue May 13 22:22:10 2003 thibault jouan
-** Last update Tue May 27 16:41:14 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		x_open(t_list *list)

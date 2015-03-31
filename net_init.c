@@ -1,13 +1,3 @@
-/*
-** net_init.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Tue May 20 04:52:02 2003 thibault jouan
-** Last update Wed May 28 05:29:20 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_init(t_list *list)

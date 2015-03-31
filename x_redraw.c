@@ -1,13 +1,3 @@
-/*
-** x_redraw.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 27 04:38:44 2003 StarK
-** Last update Fri May 30 16:24:44 2003 StarK
-*/
-
 #include "mn.h"
 
 void		x_redraw(t_list *list)

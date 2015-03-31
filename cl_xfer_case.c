@@ -1,13 +1,3 @@
-/*
-** cl_xfer_case.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sun May 25 02:57:36 2003 StarK
-** Last update Tue May 27 03:39:43 2003 StarK
-*/
-
 #include "mn.h"
 
 void		cl_xfer_case(t_list *list, char *m)

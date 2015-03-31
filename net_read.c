@@ -1,13 +1,3 @@
-/*
-** net_read.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 20 09:32:56 2003 StarK
-** Last update Wed May 28 12:03:42 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_read(t_list *list)

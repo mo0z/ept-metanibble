@@ -1,13 +1,3 @@
-/*
-** x_ev.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Mon May 26 03:04:12 2003 StarK
-** Last update Mon May 26 03:08:08 2003 StarK
-*/
-
 #include "mn.h"
 
 void		x_ev(t_list *list)

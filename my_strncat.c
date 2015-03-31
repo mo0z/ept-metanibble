@@ -1,13 +1,3 @@
-/*
-** my_strncat.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Fri May 23 19:33:03 2003 StarK
-** Last update Sun May 25 16:26:14 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 char		*my_strncat(char *s1, char *s2, int len)

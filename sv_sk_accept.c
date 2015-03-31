@@ -1,13 +1,3 @@
-/*
-** sv_sk_accept.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 24 01:17:24 2003 StarK
-** Last update Tue May 27 03:47:17 2003 StarK
-*/
-
 #include "mn.h"
 
 void		sv_sk_accept(t_list *list, char *m, int sock)

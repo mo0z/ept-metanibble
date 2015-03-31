@@ -1,13 +1,3 @@
-/*
-** x_bg_alloc.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Mon May 26 03:46:05 2003 StarK
-** Last update Wed May 28 02:31:33 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		x_bg_alloc(t_list *list)

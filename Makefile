@@ -1,13 +1,3 @@
-##
-## Makefile for  in /u/ept2/jouan_t/code/c/projetx
-## 
-## Made by thibault jouan
-## Login   <jouan_t@epita.fr>
-## 
-## Started on  Mon May 12 00:11:34 2003 thibault jouan
-## Last update Thu Jun 26 18:44:08 2003 StarK
-##
-
 NAME	= metanibble
 GFLAGS	= -Wall
 INC	= -Iincludes -I/usr/local/include -I/usr/X11R6/include \

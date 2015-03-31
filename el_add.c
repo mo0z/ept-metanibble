@@ -1,13 +1,3 @@
-/*
-** el_add.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 28 08:01:53 2003 thibault jouan
-** Last update Wed May 28 11:13:04 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		el_add(t_list *list, int num, char alpha, int x, int y)

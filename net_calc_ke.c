@@ -1,13 +1,3 @@
-/*
-** net_calc_ke.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 28 03:06:02 2003 thibault jouan
-** Last update Wed May 28 12:29:42 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_calc_ke(t_list *list, t_pl *pl)

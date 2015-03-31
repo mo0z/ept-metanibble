@@ -1,13 +1,3 @@
-/*
-** x_draw_nib.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 27 05:25:28 2003 StarK
-** Last update Wed May 28 06:03:59 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		x_draw_nib(t_list *list)

@@ -1,13 +1,3 @@
-/*
-** x_ev_key.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 17 23:23:45 2003 StarK
-** Last update Tue May 27 16:47:17 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		x_ev_key(t_list *list, XEvent xev)

@@ -1,13 +1,3 @@
-/*
-** explode.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 24 15:30:15 2003 StarK
-** Last update Sat May 24 15:30:22 2003 StarK
-*/
-
 #include "mn.h"
 
 char    *get_begin(char *s, char *token)

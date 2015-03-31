@@ -1,13 +1,3 @@
-/*
-** cl_loop.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Wed May 21 19:44:20 2003 StarK
-** Last update Fri May 30 16:25:00 2003 StarK
-*/
-
 #include "mn.h"
 
 void			cl_loop(t_list *list)

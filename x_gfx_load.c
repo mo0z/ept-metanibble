@@ -1,13 +1,3 @@
-/*
-** x_gfx_load.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Thu May 15 19:04:54 2003 StarK
-** Last update Wed May 28 08:00:12 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		x_gfx_load(t_list *list)

@@ -1,13 +1,3 @@
-/*
-** net_calc_nib_mov.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 28 11:59:15 2003 thibault jouan
-** Last update Wed May 28 12:00:04 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_calc_nib_mov(t_list *list, t_pl *tmp)

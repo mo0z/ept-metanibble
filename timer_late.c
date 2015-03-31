@@ -1,13 +1,3 @@
-/*
-** timer_late.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 20 09:35:41 2003 StarK
-** Last update Tue May 20 17:14:43 2003 StarK
-*/
-
 #include "mn.h"
 
 int			timer_late(struct timeval *t_ref)

@@ -1,13 +1,3 @@
-/*
-** list_init.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Tue May 13 21:37:42 2003 thibault jouan
-** Last update Mon May 26 02:57:07 2003 StarK
-*/
-
 #include "mn.h"
 
 t_list		*list_init(char **av)

@@ -1,13 +1,3 @@
-/*
-** cl_xfer_map_all.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sun May 25 03:19:46 2003 StarK
-** Last update Tue May 27 03:38:39 2003 StarK
-*/
-
 #include "mn.h"
 
 void		cl_xfer_map_all(t_list *list, char *m)

@@ -1,13 +1,3 @@
-/*
-** timer_ajust.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 20 09:14:27 2003 StarK
-** Last update Tue May 20 17:16:18 2003 StarK
-*/
-
 #include "mn.h"
 
 void			timer_ajust(struct timeval *t_ref,

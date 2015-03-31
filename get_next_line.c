@@ -1,13 +1,3 @@
-/*
-** get_next_line.c for sfig in /u/ept2/jouan_t/code/c/miniprojs/sfig
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Thu Jan 16 16:56:19 2003 thibault jouan
-** Last update Sun May 25 00:40:42 2003 StarK
-*/
-
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdlib.h>

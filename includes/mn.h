@@ -1,13 +1,3 @@
-/*
-** mn.h for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Mon May 12 00:11:17 2003 thibault jouan
-** Last update Fri May 30 16:01:01 2003 StarK
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <fcntl.h>
@@ -113,7 +103,6 @@ char		*chomp(char *s);
 char		**explode(char *token, char *str);
 void		tbl_print(char **tbl);
 void		tbl_free(char **tbl);
-/*char		*strndup(char *str, int n);*/
 char		*cl_read(t_list *list);
 void		cl_read_analyse(t_list *list, char *m);
 t_list		*cl_list_init(t_list *list2);

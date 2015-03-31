@@ -1,13 +1,3 @@
-/*
-** net_read_analyse.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Sun May 25 23:41:56 2003 thibault jouan
-** Last update Wed May 28 05:43:07 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_read_analyse(t_list *list, char *m, int sock)

@@ -1,13 +1,3 @@
-/*
-** cl_connect.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 20 19:38:23 2003 StarK
-** Last update Sun May 25 01:14:59 2003 StarK
-*/
-
 #include "mn.h"
 
 void			cl_connect(t_list *list)

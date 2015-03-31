@@ -1,13 +1,3 @@
-/*
-** chomp.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 24 13:59:00 2003 StarK
-** Last update Sat May 24 14:04:57 2003 StarK
-*/
-
 #include "mn.h"
 
 char		*chomp(char *s)

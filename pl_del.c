@@ -1,13 +1,3 @@
-/*
-** pl_del.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 24 13:26:34 2003 StarK
-** Last update Tue May 27 04:03:19 2003 StarK
-*/
-
 #include "mn.h"
 
 void		pl_del(t_list *list, t_pl *pl)

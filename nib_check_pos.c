@@ -1,13 +1,3 @@
-/*
-** nib_check_pos.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Thu May 22 14:13:05 2003 StarK
-** Last update Wed May 28 05:28:07 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 int		nib_check_pos(t_list *list, int x, int y)

@@ -1,13 +1,3 @@
-/*
-** pl_add_nib.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Mon May 26 23:34:42 2003 thibault jouan
-** Last update Tue May 27 00:44:03 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void			pl_add_nib(t_list *list, t_pl *pl)

@@ -1,13 +1,3 @@
-/*
-** map_init_file.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 17 15:23:36 2003 StarK
-** Last update Wed May 28 10:19:44 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		map_init_file(t_list *list)

@@ -1,13 +1,3 @@
-/*
-** ke_add_start.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 28 03:32:14 2003 thibault jouan
-** Last update Wed May 28 06:45:24 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		ke_add_start(t_list *list, t_nib *nib, int px, int py)

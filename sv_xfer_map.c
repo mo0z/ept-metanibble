@@ -1,13 +1,3 @@
-/*
-** sv_xfer_map.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sun May 25 02:37:03 2003 StarK
-** Last update Tue May 27 03:56:21 2003 StarK
-*/
-
 #include "mn.h"
 
 void		sv_xfer_map(t_list *list, int sock)

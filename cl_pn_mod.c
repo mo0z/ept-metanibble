@@ -1,13 +1,3 @@
-/*
-** cl_pn_mod.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 27 05:14:00 2003 StarK
-** Last update Wed May 28 05:56:59 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		cl_pn_mod(t_list *list, char **tab)

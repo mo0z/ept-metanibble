@@ -1,13 +1,3 @@
-/*
-** cl_launch.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 20 19:33:38 2003 StarK
-** Last update Wed May 28 02:44:16 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		cl_launch(t_list *list2)

@@ -1,13 +1,3 @@
-/*
-** structs.h for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Tue May 13 20:33:32 2003 StarK
-** Last update Fri May 30 16:07:20 2003 StarK
-*/
-
 typedef struct	s_info
 {
   char		*map_file;

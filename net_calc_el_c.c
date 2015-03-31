@@ -1,13 +1,3 @@
-/*
-** net_calc_el_c.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 28 12:18:27 2003 thibault jouan
-** Last update Wed May 28 12:52:19 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_calc_el_c(t_list *list, t_nib *nib)

@@ -1,13 +1,3 @@
-/*
-** nib.h for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Thu May 15 18:51:50 2003 StarK
-** Last update Thu May 29 18:10:52 2003 StarK
-*/
-
 typedef struct	s_ke
 {
   int		x;

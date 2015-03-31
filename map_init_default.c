@@ -1,13 +1,3 @@
-/*
-** map_init_default.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 17 15:24:04 2003 StarK
-** Last update Wed May 28 14:09:12 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		map_init_default(t_list *list)

@@ -1,13 +1,3 @@
-/*
-** sv_recv.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 21 23:11:13 2003 thibault jouan
-** Last update Mon May 26 00:35:15 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 char		*sv_recv(t_list *list, int sock)

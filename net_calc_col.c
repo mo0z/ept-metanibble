@@ -1,13 +1,3 @@
-/*
-** net_calc_col.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 28 05:04:55 2003 thibault jouan
-** Last update Wed May 28 07:53:16 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		net_calc_col(t_list *list)

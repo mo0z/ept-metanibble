@@ -1,13 +1,3 @@
-/*
-** nib_init.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Wed May 21 22:29:39 2003 thibault jouan
-** Last update Wed May 28 05:27:53 2003 thibault jouan
-*/
-
 #include "mn.h"
 
 void		nib_init(t_list *list)

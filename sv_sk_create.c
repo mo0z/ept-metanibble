@@ -1,13 +1,3 @@
-/*
-** sv_sk_create.c for  in /u/ept2/jouan_t/code/c/projetx
-** 
-** Made by thibault jouan
-** Login   <jouan_t@epita.fr>
-** 
-** Started on  Tue May 20 05:19:59 2003 thibault jouan
-** Last update Thu May 22 15:47:48 2003 StarK
-*/
-
 #include "mn.h"
 
 int			sv_sk_create(int port)

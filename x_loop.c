@@ -1,13 +1,3 @@
-/*
-** x_loop.c for  in 
-** 
-** Made by StarK
-** Login   <stark@abris13.org>
-** 
-** Started on  Sat May 17 16:49:52 2003 StarK
-** Last update Sat May 24 23:49:39 2003 StarK
-*/
-
 #include "mn.h"
 
 void			x_loop(t_list *list)
